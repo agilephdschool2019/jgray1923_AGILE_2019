@@ -4,7 +4,7 @@ author:
   - name: Jennie Gray
     affiliation: University of Leeds, UK
     email: gyjhg@leeds.ac.uk
-    orcid: 0000-0000-0000-0000
+    orcid: 0000-0002-7558-1247
 abstract: |
    Geodemographic classifications are temporally static, but geodemographics are area-based classifications, and areas are *dynamic*.
 output:
