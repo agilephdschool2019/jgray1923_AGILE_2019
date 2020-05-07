@@ -8,16 +8,21 @@ author:
 abstract:
    Geodemographic classifications are temporally static, but geodemographics are area-based classifications, and areas are *dynamic*.
 output:
-  ceurticles::twocolpceurws_article:
-     latex_engine: xelatex
+  ceurticles::twocolpceurws_article
 bibliography: samplebib.bib
+header-includes:
+  - \usepackage{amssymb}
 ---
 
 # Geodemographic classifications 
 
 Geodemographic classifications are temporally static, but geodemographics are area-based classifications, and areas are *dynamic*. 
 
-$$ Geodemographic Change = ∑Sociodemographic Processes$$
+\scriptsize
+
+$$ Geodemographic Change = \sum Sociodemographic Processes$$
+
+\normalsize
 
 - gentrification and displacement
 
@@ -83,17 +88,17 @@ My current folder organisation:
 
 2. Easy to navigate? X
 
-3. A million seperate folders and document revisions? ✓ 
+3. A million seperate folders and document revisions? \checkmark 
 
 Version control **is** my **friend**
 
-1. Need to rerun a specific analysis? ✓ 
+1. Need to rerun a specific analysis? \checkmark
 
-2. Reproducible papers? ✓
+2. Reproducible papers? \checkmark
 
-3. R? cmd? ✓
+3. R? cmd? \checkmark
 
-4. Online collaborators? ✓ 
+4. Online collaborators? \checkmark
 
 5. I have largely been using open data, and use R (with bits of ArcGIS), so these (minus Arc) lend themselves well to reproducibility. But I've learnt how to use QGIS too! 
 
